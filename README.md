@@ -7,5 +7,5 @@
 
   <img src="assets/CSS">
   
-  <img src="assets/javaScript.svg">
+  <img src="javaScript.svg">
   </div>
